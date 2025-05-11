@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.service.emory.edu/Suk-Lab/EmpowerHPVx/assets/883/fcb4af51-9cf7-4345-ba98-0e5a01aed371" width="300" alt="EmpowerHPVx Logo"/>
+  <img src="https://github.com/user-attachments/assets/ff1db8f5-86d6-4b1e-9759-4dc5049fec71" width="300" alt="EmpowerHPVx Logo"/>
 </p>
-
 
 # EmpowerHPVx (Adult HPV vaccination decision-making)
 
