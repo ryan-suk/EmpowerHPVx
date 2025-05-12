@@ -4,6 +4,8 @@
 
 # EmpowerHPVx (Adult HPV vaccination decision-making)
 
+## >> 🤖 To check PRELIMINARY DATA >>> 👉[Click here to view the preliminary results](https://github.com/ryan-suk/EmpowerHPVx/tree/c02ae8bc427aefeb44cb54eb6c82aee3fd1028b9/Prelim%20Data)
+
 ## 📍 Project Overview
 
 **EmpowerHPVx** is a research initiative aiming to improve informed decision-making for HPV vaccination among adults aged 27–45. Despite national guidelines supporting *shared clinical decision-making (SDM)* in this age group, optimal benefit is limited—often due to confusion, stigma, and inaccessible or overly technical information.
