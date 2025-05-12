@@ -4,7 +4,7 @@
 
 # EmpowerHPVx (Adult HPV vaccination decision-making)
 
-## >> 🤖 To check PRELIMINARY DATA >>> 👉[Click here to view the preliminary results](https://github.com/ryan-suk/EmpowerHPVx/tree/c02ae8bc427aefeb44cb54eb6c82aee3fd1028b9/Prelim%20Data)
+## >> 🤖 To check PRELIMINARY DATA >>> 👉[Click here to view the preliminary results](https://github.com/ryan-suk/EmpowerHPVx/tree/main/Prelim%20Data)
 
 ## 📍 Project Overview
 
