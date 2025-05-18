@@ -1,5 +1,5 @@
 # A Pilot NLP Study of Public Questions and Concerns About HPV Vaccination Among Adults Aged 27–45
-## * Refinement ongoing -- outputs will change as models improve.
+## * Refinement ongoing -- outputs may change as models improve.
 
 ## 👥 Investigators
 
