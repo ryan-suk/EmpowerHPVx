@@ -37,7 +37,7 @@ Based on the comments extracted, here are some common questions asked about vacc
 
 ## ⚠️ Common Misconceptions
 - HPV can **only** be transmitted through sexual activity.
-- HPV vaccination is **not** necessary after sexual activity has begun.
+- HPV vaccination is **pointless** after sexual activity has begun.
 - Gardasil has severe adverse effects and long-term implications.
 - HPV vaccination is **not** effective for cancer prevention.
 
